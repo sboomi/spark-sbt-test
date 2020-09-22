@@ -1,0 +1,9 @@
+#Logs
+errorlog.txt
+statuslog.txt
+
+#VSC stuff
+.vscode/
+
+#Target samples
+target/*
